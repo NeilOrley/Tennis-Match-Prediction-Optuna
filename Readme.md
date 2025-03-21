@@ -43,7 +43,7 @@ The model expects a CSV file structured like this:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## 🏗️ How It Works
 1. Train and evaluate multiple models:
